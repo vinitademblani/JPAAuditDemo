@@ -1,0 +1,23 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 148 ciObject found
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 17153 49417 5345 0 -1
+ciMethod java/lang/String equalsIgnoreCase (Ljava/lang/String;)Z 2049 1 5592 0 1568
+ciMethod java/lang/String regionMatches (ZILjava/lang/String;II)Z 1945 433 5408 0 1920
+ciMethod java/net/URL getPort ()I 1041 1 130 0 0
+ciMethod java/net/URL getProtocol ()Ljava/lang/String; 1041 1 130 0 0
+ciMethod java/net/URL getHost ()Ljava/lang/String; 1025 1 128 0 0
+ciMethod java/net/URL getFile ()Ljava/lang/String; 1073 1 134 0 0
+ciMethod java/net/URL getRef ()Ljava/lang/String; 1025 1 128 0 0
+ciMethod java/lang/Character toLowerCase (C)C 3393 1 40451 0 192
+ciMethod java/lang/Character toLowerCase (I)I 4097 1 58286 0 0
+ciMethod java/lang/Character toUpperCase (C)C 3425 1 20899 0 192
+ciMethod java/lang/Character toUpperCase (I)I 3425 1 20899 0 0
+ciMethod java/lang/CharacterData toLowerCase (I)I 0 0 1 0 -1
+ciMethod java/lang/CharacterData toUpperCase (I)I 0 0 1 0 -1
+ciMethod java/lang/CharacterData of (I)Ljava/lang/CharacterData; 4097 1 5647 0 96
+ciMethod java/lang/CharacterDataLatin1 getProperties (I)I 4097 1 32342 0 0
+ciMethod java/lang/CharacterDataLatin1 toLowerCase (I)I 4097 1 5745 0 160
+ciMethod java/lang/CharacterDataLatin1 toUpperCase (I)I 3425 1 5565 0 160
+ciMethodData java/lang/Character toLowerCase (I)I 2 58286 orig 264 72 34 212 119 0 0 0 0 16 163 142 22 0 0 0 0 136 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 113 13 7 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 2 0 0 0 64 0 0 0 255 255 255 255 2 0 1 0 0 0 0 0 data 8 0x10002 0xe1b0 0x50005 0x0 0x1aa53b10 0xe1b0 0x0 0x0 oops 1
